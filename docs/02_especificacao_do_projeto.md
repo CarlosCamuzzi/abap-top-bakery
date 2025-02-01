@@ -19,6 +19,9 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 | 011  | O sistema deverá permitir a atualização do estoque de produtos. |
 | 012  | O sistema deverá permitir a atualização do estoque de insumos. |
 | 013  | O sistema deverá permitir o cadastro de funcionários. |
+| 014  | O sistema deverá permitir a geração de ordem de produção. |
+| 014  | O sistema deverá permitir a finalização de ordem de produção. |
+| 014  | O sistema deverá permitir a geração de ordem de abastecimento. |
 
 ## Requisitos Não Funcionais
 
