@@ -18,6 +18,7 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 | 010  | O sistema deverá permitir o registro da venda. |
 | 011  | O sistema deverá permitir a atualização do estoque de produtos. |
 | 012  | O sistema deverá permitir a atualização do estoque de insumos. |
+| 013  | O sistema deverá permitir o cadastro de funcionários. |
 
 ## Requisitos Não Funcionais
 
