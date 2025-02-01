@@ -3,17 +3,18 @@
 O presente projeto será desenvolvido para fins de estudo da linguagem **ABAP**, dentro do ecossistema **SAP**.
 O intuito é criar um sistema para gerenciamento da padaria **Top Bakery** (nome fictício), no qual teremos módulos de:
 
-- Pedido de venda
+- Ordem de compra
+- Ordem de produção
+- Registro de vendas
+- Precificação   
 - Cadastro de produtos e insumos
-- Precificação  
-- Criação de receitas  
-- Atualização de estoques  
-- Ordem de compras
+- Criação de receitas
 - Relatórios
-- Controle de venda
-- Entre outros  
+- Registro de entradas de insumos
+- Cadastro de produtos
+- Cadastro de funcionários
 
-Inicialmente, a concepção será feita com a tecnologia **Module Pool**, utilizando o **SAP GUI** como interface com o usuário.  
+Inicialmente, a concepção será feita com **Module Pool**, utilizando o **SAP GUI** como interface de usuário.  
 Após essa primeira etapa, será desenvolvida uma **API** para conexão com **SAP Fiori**.
 
 ## Informaçãos do Projeto
