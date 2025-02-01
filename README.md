@@ -1,7 +1,7 @@
 # Introdução
 
 O presente projeto será desenvolvido para fins de estudo da linguagem **ABAP**, dentro do ecossistema **SAP**.
-O intuito desse é criar um sistema para gerenciamento da padaria **Top Bakery** (nome fictício), no qual teremos módulos de:
+O intuito é criar um sistema para gerenciamento da padaria **Top Bakery** (nome fictício), no qual teremos módulos de:
 
 - Pedido de venda
 - Cadastro de produtos e insumos
