@@ -1,4 +1,4 @@
-# Requisitos do Sistema
+# Especificações do Projeto
 
 Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram levantados os seguintes requisitos:
 
@@ -30,15 +30,30 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 | 001  | O sistema deverá manter permissões de acesso diferentes para usuários distintos. |
 | 002  | O sistema deverá ser desenvolvido em **ABAP**. |
 
-## Observação  
-
+### Observação  
 Como a proposta do projeto é para **fins de estudo**, foram abstraídos alguns pontos, como:
 
 - Controle financeiro.  
-- Equipe de produção.  
-- Logística de abastecimento.  
+- Rotinas da equipe de produção.  
 - Funcionários para outras rotinas administrativas.  
 - Informação de pedido por e-mail para fornecedor.  
 - Entre outros.  
 
 **Nota:** Não descartando a possibilidade de inclusão ou alterações futuras.
+
+## Personas
+
+As personas observadas dentro do contexto do projeto são:
+- Cliente
+- Fornecedor
+- Vendedor
+- Padeiro
+- Repositor
+- Supervisor
+- Gerente
+
+## Diagrama de Caso de Uso
+
+De acordo com os requisitos levantados, foi criado o seguinte diagrama:
+
+[Top Bakery: Caso de Uso](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/diagrama_caso_uso_bakery.png)
