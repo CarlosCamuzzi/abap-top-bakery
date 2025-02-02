@@ -16,8 +16,8 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas e 
 ## Processo
 Para organização do projeto, será utilizada a ferramenta Trello, estruturada da seguinte forma:
  
-| Lista       | Descrição |
-|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Lista      | Descrição |
+|:----------:|:-------------------------------------------------------------------------------------------------------------------------------:|
 | Backlog    | Define os artefatos a serem entregues. |
 | Plano de Sprint | Inicialmente recebem os cards que serão movidos, e possuem a devida identificação de qual sprint pertencem por meio de etiquetas. |
 | Design     | Esta lista apresenta as atividades de Design do projeto. |
