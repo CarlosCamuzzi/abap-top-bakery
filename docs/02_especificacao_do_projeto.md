@@ -56,4 +56,4 @@ As personas observadas dentro do contexto do projeto são:
 
 De acordo com os requisitos levantados, foi criado o seguinte diagrama:
 
-[Top Bakery: Caso de Uso](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/diagrama_caso_uso_bakery.png)
+![Top Bakery: Caso de Uso](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/diagrama_caso_uso_bakery.png)
