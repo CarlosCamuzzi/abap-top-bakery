@@ -1,7 +1,7 @@
 # Metodologia
 
 ## Ambiente de Trabalho
-Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seus respectivos propósitos é apresentada na tabela que se segue.
+Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seus respectivos propósitos é apresentada na tabela abaixo:
 
 | AMBIENTE                    | PLATAFORMA |
 |:---------------------------:|:----------:|
@@ -14,7 +14,7 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas e 
 | Versionamento | ABAPGIT |
 
 ## Processo
-Para organização do projeto, será utilizada a ferramenta Trello, estruturada com as seguintes listas:  
+Para organização do projeto, será utilizada a ferramenta Trello, estruturada da seguinte forma:
  
 | Lista       | Descrição |
 |------------|----------------------------------------------------------------------------------------------------------------------------------|
