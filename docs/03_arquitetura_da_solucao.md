@@ -39,3 +39,7 @@ CRIAR
 ![flow: criacao de relatorios](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_relatorios.png)
 
 
+## Modelo ER
+
+## Esquema Relacional
+
