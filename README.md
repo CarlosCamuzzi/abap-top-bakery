@@ -11,3 +11,4 @@ a gestão de uma padaria.
 [01 - Metodologia](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/01_metodologia.md)<br>
 [02 - Especificação do Projeto](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/02_especificacao_do_projeto.md)<br>
 [03 - Arquitetura da Solução](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/03_arquitetura_da_solucao.md)<br>
+[04 - Casos de Teste](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/04_casos_de_teste.md)<br>
