@@ -31,17 +31,6 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 | 001  | O sistema deverá manter permissões de acesso diferentes para usuários distintos. |
 | 002  | O sistema deverá ser desenvolvido em **ABAP**. |
 
-### Observação  
-Como a proposta do projeto é para **fins de estudo**, foram abstraídos alguns pontos, como:
-
-- Controle financeiro.  
-- Rotinas da equipe de produção.  
-- Funcionários para outras rotinas administrativas.  
-- Informação de pedido por e-mail para fornecedor.  
-- Entre outros.  
-
-**Nota:** Não descartando a possibilidade de inclusão ou alterações futuras.
-
 ## Matriz de Rastreabilidade
 
 | Código  | Requisito | Prioridade | Funcionalidade | Caso de Teste | Status |
