@@ -4,24 +4,25 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 
 ## Requisitos Funcionais
 
-| ID   | Descrição |
-|------|-----------|
-| 001  | O sistema deverá permitir a criação de ordens de compra de insumos junto ao fornecedor. |
-| 002  | O sistema deverá permitir o registro das entradas de insumos. |
-| 003  | O sistema deverá permitir a precificação dos produtos finais. |
-| 004  | O sistema deverá permitir a geração de relatórios de vendas e compras de produtos. |
-| 005  | O sistema deverá permitir o cadastro de receitas. |
-| 006  | O sistema deverá permitir a geração da ordem de produção a partir das receitas. |
-| 007  | O sistema deverá permitir o cadastro de insumos. |
-| 008  | O sistema deverá permitir o cadastro de produtos finais. |
-| 009  | O sistema deverá permitir a venda direta ao cliente. |
-| 010  | O sistema deverá permitir o registro da venda. |
-| 011  | O sistema deverá permitir a atualização do estoque de produtos. |
-| 012  | O sistema deverá permitir a atualização do estoque de insumos. |
-| 013  | O sistema deverá permitir o cadastro de funcionários. |
-| 014  | O sistema deverá permitir a geração de ordem de produção. |
-| 014  | O sistema deverá permitir a finalização de ordem de produção. |
-| 014  | O sistema deverá permitir a geração de ordem de abastecimento. |
+| ID   | Descrição | Prioridade |
+|------|-----------|-----|
+| 001  | O sistema deverá permitir a criação de ordens de compra de insumos junto ao fornecedor. | MÉDIA |
+| 002  | O sistema deverá permitir o registro das entradas de insumos. | MÉDIA |
+| 003  | O sistema deverá permitir a precificação dos produtos finais. | BAIXA |
+| 004  | O sistema deverá permitir a geração de relatórios de vendas de produtos. | BAIXA |
+| 005  | O sistema deverá permitir o cadastro de receitas. | ALTA |
+| 006  | O sistema deverá permitir a geração da ordem de produção a partir das receitas. | MÉDIA |
+| 007  | O sistema deverá permitir o cadastro de insumos. | ALTA |
+| 008  | O sistema deverá permitir o cadastro de produtos finais. | ALTA |
+| 009  | O sistema deverá permitir o registro da venda direta ao cliente. | BAIXA |
+| 010  | O sistema deverá permitir o registro da venda. | MÉDIA |
+| 011  | O sistema deverá permitir a atualização do estoque de produtos. | MÉDIA |
+| 012  | O sistema deverá permitir a atualização do estoque de insumos. | MÉDIA |
+| 013  | O sistema deverá permitir o cadastro de funcionários. | ALTA |
+| 014  | O sistema deverá permitir a geração de ordem de produção. | MÉDIA |
+| 015  | O sistema deverá permitir a finalização de ordem de produção. | BAIXA |
+| 016  | O sistema deverá permitir a geração de ordem de abastecimento. | BAIXA |
+| 017  | O sistema deverá permitir a geração de relatórios de compras de insumos. | BAIXA |
 
 ## Requisitos Não Funcionais
 
