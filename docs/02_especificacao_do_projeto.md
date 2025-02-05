@@ -56,12 +56,12 @@ Diante dos requisitos funcionais levantados, foram analisadas as seguintes depen
 ### Considerações
 
 #### Funcionalidades Base:
-- **F007:** Cadastro de insumos 
+- **F007:** Cadastro de insumos<br>
 - **F008:** Cadastro de produtos finais
 
 #### Possíveis Gargalos:
-**F008** está envolvido nas dependências **F003, F004, F005, F009, F010, F015**
-**F007** está envolvido nas dependências **F001, F002, F005**
+**F008** está envolvido nas dependências **F003, F004, F005, F009, F010, F015**<br>
+**F007** está envolvido nas dependências **F001, F002, F005**<br>
 **F009** está envolvido nas dependências **F004, F010, F015**
 
 ### Cadeia de Dependências Críticas:
