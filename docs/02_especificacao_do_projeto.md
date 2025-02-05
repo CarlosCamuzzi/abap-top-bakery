@@ -6,9 +6,9 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 
 | ID   | Descrição | Prioridade |
 |------|-----------|-----|
-| 001  | O sistema deverá permitir a criação de ordens de compra de insumos junto ao fornecedor. | MÉDIA |
+| 001  | O sistema deverá permitir a criação de ordens de compra de insumos junto ao fornecedor. | ALTA |
 | 002  | O sistema deverá permitir o registro das entradas de insumos. | MÉDIA |
-| 003  | O sistema deverá permitir a precificação dos produtos finais. | BAIXA |
+| 003  | O sistema deverá permitir a precificação dos produtos finais. | MÉDIA |
 | 004  | O sistema deverá permitir a geração de relatórios de vendas de produtos. | BAIXA |
 | 005  | O sistema deverá permitir o cadastro de receitas. | ALTA |
 | 006  | O sistema deverá permitir a geração da ordem de produção a partir das receitas. | MÉDIA |
