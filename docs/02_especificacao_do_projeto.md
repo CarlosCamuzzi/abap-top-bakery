@@ -60,14 +60,14 @@ Diante dos requisitos funcionais levantados, foram analisadas as seguintes depen
 - **F008:** Cadastro de produtos finais
 
 #### Possíveis Gargalos:
-**F008** está envolvido nas dependências **F003, F004, F005, F009, F010, F015**<br>
-**F007** está envolvido nas dependências **F001, F002, F005**<br>
-**F009** está envolvido nas dependências **F004, F010, F015**
+- **F008** está envolvido nas dependências **F003, F004, F005, F009, F010, F015**<br>
+- **F007** está envolvido nas dependências **F001, F002, F005**<br>
+- **F009** está envolvido nas dependências **F004, F010, F015**
 
 ### Cadeia de Dependências Críticas:
-**Fluxo de produção:** F005 -> F013 -> F014 
-**Fluxo de vendas:** F008 -> F009 -> F010 
-**Fluxo de insumos:** F007 -> F002 -> F011 
+- **Fluxo de produção:** F005 -> F013 -> F014<br>
+- **Fluxo de vendas:** F008 -> F009 -> F010<br>
+- **Fluxo de insumos:** F007 -> F002 -> F011 
 
 -  [Baixar planilha da Matriz de Rastreabilidade](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/file/top_bakery_matriz_rastreabiidade.xlsx)
 
