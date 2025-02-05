@@ -14,15 +14,14 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 | 006  | O sistema deverá permitir a geração da ordem de produção a partir das receitas. | MÉDIA |
 | 007  | O sistema deverá permitir o cadastro de insumos. | ALTA |
 | 008  | O sistema deverá permitir o cadastro de produtos finais. | ALTA |
-| 009  | O sistema deverá permitir o registro da venda direta ao cliente. | BAIXA |
-| 010  | O sistema deverá permitir o registro da venda. | MÉDIA |
-| 011  | O sistema deverá permitir a atualização do estoque de produtos. | MÉDIA |
-| 012  | O sistema deverá permitir a atualização do estoque de insumos. | MÉDIA |
-| 013  | O sistema deverá permitir o cadastro de funcionários. | ALTA |
-| 014  | O sistema deverá permitir a geração de ordem de produção. | MÉDIA |
-| 015  | O sistema deverá permitir a finalização de ordem de produção. | BAIXA |
-| 016  | O sistema deverá permitir a geração de ordem de abastecimento. | BAIXA |
-| 017  | O sistema deverá permitir a geração de relatórios de compras de insumos. | BAIXA |
+| 009  | O sistema deverá permitir o registro da venda. | MÉDIA |
+| 010  | O sistema deverá permitir a atualização do estoque de produtos. | MÉDIA |
+| 011  | O sistema deverá permitir a atualização do estoque de insumos. | MÉDIA |
+| 012  | O sistema deverá permitir o cadastro de funcionários. | ALTA |
+| 013  | O sistema deverá permitir a geração de ordem de produção. | MÉDIA |
+| 014  | O sistema deverá permitir a finalização de ordem de produção. | BAIXA |
+| 015  | O sistema deverá permitir a geração de ordem de abastecimento. | BAIXA |
+| 016  | O sistema deverá permitir a geração de relatórios de compras de insumos. | BAIXA |
 
 ## Requisitos Não Funcionais
 
