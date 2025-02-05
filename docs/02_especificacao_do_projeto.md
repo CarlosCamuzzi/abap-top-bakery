@@ -56,8 +56,8 @@ Diante dos requisitos funcionais levantados, foram analisadas as seguintes depen
 ### Considerações
 
 #### Funcionalidades Base:
-**F007 (Cadastro de insumos)** e **F008 (Cadastro de produtos finais)** são funcionalidades fundamentais que muitas outras dependem
-F012 (Cadastro de funcionários) não possui dependências, sendo independente
+- **F007:** Cadastro de insumos 
+- **F008:** Cadastro de produtos finais
 
 #### Possíveis Gargalos:
 **F008** está envolvido nas dependências **F003, F004, F005, F009, F010, F015**
