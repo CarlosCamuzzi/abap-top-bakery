@@ -4,9 +4,9 @@ Diante dos requisitos funcionais, foram elaborados os seguintes casos de testes:
 
 | Código  | Requisito | Prioridade | Funcionalidade | Caso de Teste | Status |
 |---------|-----------|------------|---------------|--------------|--------|
-| **001** | O sistema deverá permitir a criação de ordens de compra de insumos junto ao fornecedor. | MÉDIA | Tela de Ordens de Compra | CT001 - Criar ordem de compra | Pendente |
+| **001** | O sistema deverá permitir a criação de ordens de compra de insumos junto ao fornecedor. | ALTA | Tela de Ordens de Compra | CT001 - Criar ordem de compra | Pendente |
 | **002** | O sistema deverá permitir o registro das entradas de insumos. | MÉDIA | Tela de Entrada de Insumos | CT002 - Registrar entrada de insumos | Pendente |
-| **003** | O sistema deverá permitir a precificação dos produtos finais. | BAIXA | Tela de Precificação | CT003 - Definir preço do produto | Pendente |
+| **003** | O sistema deverá permitir a precificação dos produtos finais. | MÉDIA | Tela de Precificação | CT003 - Definir preço do produto | Pendente |
 | **004** | O sistema deverá permitir a geração de relatórios de vendas de produtos. | BAIXA | Tela de Relatórios | CT004 - Gerar relatório de vendas | Pendente |
 | **005** | O sistema deverá permitir o cadastro de receitas. | ALTA | Tela de Receitas | CT005 - Cadastrar uma receita | Pendente |
 | **006** | O sistema deverá permitir a geração da ordem de produção a partir das receitas. | MÉDIA | Tela de Produção | CT006 - Gerar ordem de produção | Pendente |
