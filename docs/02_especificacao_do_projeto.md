@@ -69,7 +69,7 @@ Diante dos requisitos funcionais levantados, foram analisadas as seguintes depen
 - **Fluxo de vendas:** F008 -> F009 -> F010<br>
 - **Fluxo de insumos:** F007 -> F002 -> F011 
 
--  [Baixar planilha da Matriz de Rastreabilidade](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/file/top_bakery_matriz_rastreabiidade.xlsx)
+[Baixar planilha da Matriz de Rastreabilidade](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/file/top_bakery_matriz_rastreabiidade.xlsx)
 
 ## Personas
 
