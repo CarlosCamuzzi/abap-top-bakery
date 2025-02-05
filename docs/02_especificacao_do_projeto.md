@@ -32,12 +32,48 @@ Diante da análise do problema e da necessidade do cliente **Top Bakery**, foram
 
 ## Matriz de Rastreabilidade
 
+Diante dos requisitos funcionais levantados, foram analisadas as seguintes dependências:
 
+| ID   | F001 | F002 | F003 | F004 | F005 | F006 | F007 | F008 | F009 | F010 | F011 | F012 | F013 | F014 | F015 | F016 | 
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| F001 |      |      |      |      |      |      | X    |      |      |      |      |      |      |      |      |      |
+| F002 | X    |      |      |      |      |      | X    |      |      |      |      |      |      |      |      |      |
+| F003 |      |      |      |      |      |      |      | X    |      |      |      |      |      |      |      |      |
+| F004 |      |      |      |      |      |      |      | X    | X    |      |      |      |      |      |      |      |
+| F005 |      |      |      |      |      |      | X    | X    |      |      |      |      |      |      |      |      |
+| F006 |      |      |      |      | X    |      |      |      |      |      |      |      |      |      |      |      |
+| F007 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| F008 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| F009 |      |      | X    |      |      |      |      | X    |      |      |      |      |      |      |      |      |
+| F010 |      |      |      |      |      |      |      | X    | X    |      |      |      |      |      |      |      |
+| F011 |      | X    |      |      |      |      |      |      |      |      |      |      | X    | X    |      |      |
+| F012 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      
+| F013 |      |      |      |      | X    |      |      |      |      |      |      |      |      |      |      |      |      
+| F014 |      |      |      |      |      |      |      |      |      |      |      |      | X    |      |      |      |     
+| F015 |      |      |      |      |      |      |      | X    | X    |      |      |      |      |      |      |      |      
+| F016 | X    | X    |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      
 
+### Considerações
+
+#### Funcionalidades Base:
+**F007 (Cadastro de insumos)** e **F008 (Cadastro de produtos finais)** são funcionalidades fundamentais que muitas outras dependem
+F012 (Cadastro de funcionários) não possui dependências, sendo independente
+
+#### Possíveis Gargalos:
+**F008** está envolvido nas dependências **F003, F004, F005, F009, F010, F015**
+**F007** está envolvido nas dependências **F001, F002, F005**
+**F009** está envolvido nas dependências **F004, F010, F015**
+
+### Cadeia de Dependências Críticas:
+**Fluxo de produção:** F005 -> F013 -> F014 
+**Fluxo de vendas:** F008 -> F009 -> F010 
+**Fluxo de insumos:** F007 -> F002 -> F011 
+
+-  [Baixar planilha da Matriz de Rastreabilidade(https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/file/top_bakery_matriz_rastreabiidade.xlsx)]
 
 ## Personas
 
-As personas observadas dentro do contexto do projeto são:
+As personas observadas dentro do contexto do projeto estão listadas abaixo:
 - Cliente
 - Fornecedor
 - Vendedor
@@ -48,6 +84,6 @@ As personas observadas dentro do contexto do projeto são:
 
 ## Diagrama de Caso de Uso
 
-De acordo com os requisitos levantados, foi criado o seguinte diagrama:
+De acordo com as personas e os requisitos levantados, foi criado o seguinte diagrama de caso de uso:
 
 <img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/diagrama_caso_uso_bakery.png" alt="Top Bakery: Caso de Uso" width="500" height="722">
