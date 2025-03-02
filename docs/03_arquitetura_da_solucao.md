@@ -6,7 +6,7 @@ Diante do estudo dos requisitos, foram levantados os seguintes fluxos:
 
 ### Cadastro de Funcionário
 
-CRIAR
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_pessoa.png" width="500" height="300">
 
 ### Cadastro de Insumo
 
