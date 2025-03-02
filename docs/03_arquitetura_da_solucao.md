@@ -10,47 +10,47 @@ Diante do estudo dos requisitos, foram levantados os seguintes fluxos:
 
 ### Cadastro de Insumo
 
-![flow: cadastro de insumo](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_insumo.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_insumo.png" height="200">
 
 ### Cadastro de Produto
 
-![flow: cadastro de produto](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_produto.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_produto.png" height="200">
 
 ### Ordem de Compra
 
-![flow: ordem de compra](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_ordem_de_compra.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_ordem_de_compra.png" height="200">
 
 ### Registro de Entrada de Insumos
 
-![flow: entrada de insumos](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_entrada_insumos.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_entrada_insumos.png" height="200">
 
 ### Cadastro de Receitas
 
-![flow: cadastro de receitas](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_receita.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_cadastro_receita" height="200">
 
 ### Ordem de Produção
 
-![flow: ordem de producao](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_ordem_producao.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_ordem_producao.png height="200">
 
 ### Finalização de Ordem de Produção
 
-![flow: finalizacao ordem producao](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_finalizar_ordem_producao.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_finalizar_ordem_producao.png height="200">
 
 ### Precificação
 
-![flow: precificacao](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_precificacao.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_precificacao.png" height="200">
 
 ### Registro de Vendas
 
-![flow: registro de vendas](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_venda.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_venda.png" height="200">
 
 ### Ordem de Abastecimento
 
-![flow: ordem de abastecimento](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_ordem_abastecimento.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_ordem_abastecimento.png" height="200">
 
 ### Criação de Relatórios
 
-![flow: criacao de relatorios](https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_relatorios.png)
+<img src="https://github.com/CarlosCamuzzi/abap-top-bakery/blob/main/docs/img/flow_top_bakery_relatorios.png" height="200">
 
 ## Modelo ER
 
